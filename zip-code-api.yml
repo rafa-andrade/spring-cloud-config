@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+integration:
+  viacep:
+    uri: http://viacep.com.br/ws
+  postmon:
+    uri: http://api.postmon.com.br
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
