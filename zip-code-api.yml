@@ -3,7 +3,7 @@ server:
 
 integration:
   viacep:
-    uri: http://viacep.com.brAAAA/ws
+    uri: http://viacep.com.br/ws
   postmon:
     uri: http://api.postmon.com.br
 
