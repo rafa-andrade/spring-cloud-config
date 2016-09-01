@@ -11,3 +11,6 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 5000
+      circuitBreaker:
+        requestVolumeThreshold: 5
+        sleepWindowInMilliseconds: 5000            
