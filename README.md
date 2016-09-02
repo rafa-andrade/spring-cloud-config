@@ -1,3 +1,3 @@
 # spring-cloud-config
 
-Apresentação: http://goo.gl/eQ6TsY
+Apresentação Spring Cloud: http://goo.gl/eQ6TsY
