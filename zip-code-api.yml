@@ -1,6 +1,6 @@
 integration:
   viacep:
-    uri: http://viacep.com.brAAA/ws
+    uri: http://viacep.com.br/ws
   postmon:
     uri: http://api.postmon.com.br
 
